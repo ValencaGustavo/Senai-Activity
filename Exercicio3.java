@@ -15,9 +15,9 @@ public class Exercicio3 {
         Scanner sc = new Scanner(System.in);
         int[] vetor = new int[10];
 
-        System.out.println("Digite 10 números inteiros:");
+        System.out.println("Digite 10 números:");
         for (int i = 0; i < vetor.length; i++) {
-            System.out.print("Número " + (i + 1) + ": ");
+            System.out.print("Número: ");
             vetor[i] = sc.nextInt();
         }
 
