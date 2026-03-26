@@ -32,6 +32,6 @@ public class Exercicio4 {
             System.out.print(noRepeticao[i] + " ");
         }
 
-        System.out.println("\nTotal: " + total);
+        System.out.println("Total: " + total);
     }
 }
