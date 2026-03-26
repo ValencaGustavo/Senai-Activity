@@ -7,7 +7,7 @@ public class Exercicio2 {
 
         System.out.println("Digite 20 números");
         for (int i = 0; i < vetor.length; i++) {
-            System.out.print("Número " + (i + 1) + ": ");
+            System.out.print("Número: ");
             vetor[i] = sc.nextInt();
         }
 
